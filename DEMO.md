@@ -27,6 +27,24 @@ conversation or validate speech recognition, emergency contact, or relaxation ou
 The activity hub offers exercise entry points and local progress display. The capture shows
 the menu and its initial state, not completed exercises or a clinical assessment.
 
+## 4 Review medication routines and the home medicine cabinet
+
+![Medication calendar](assets/04-medication-calendar.png)
+
+![Home medicine cabinet](assets/05-medicine-cabinet.png)
+
+The two tabs show a medication calendar, example medication profiles and stock levels, time-slot
+settings, and local confirmation-related views. Source files include `pages/medication/` and
+`utils/medStore.js`. Current timing rules are simplified and some displayed percentages are
+development values. This is not evidence of automatic adherence detection or physical dispensing.
+
+## 5 Read the health-data interface
+
+![Health information](assets/06-health-overview.png)
+
+The overview and detailed-data module demonstrate information organization using simulated values.
+No sensor feed, diagnostic function, medical result, or prediction accuracy was tested in this capture.
+
 ## What a partner demonstration could test next
 
 - A short conversation with a controlled, synthetic scenario.

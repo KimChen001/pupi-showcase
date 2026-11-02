@@ -39,6 +39,17 @@ understand the interface, feel in control, and find the interactions useful enou
 **Evidence to seek:** usability observations, reasons for disengagement, conversation feedback,
 and failure reports. Engagement is not a substitute for evidence of emotional or health benefit.
 
+The pilot should also examine the home medicine cabinet and health-information experience:
+whether schedules and user confirmations are understandable, whether stock information is easy
+to maintain, and whether authorized family summaries support useful conversations.
+
+## Commercial validation
+
+Evaluate the older adult's experience separately from the buyer's willingness to pay.
+Compare a phone-only service with a hardware-integrated service and record setup, model/voice,
+hosting, and support costs. Use those observations to choose a licensing, subscription,
+or integration model. No current revenue or signed channel partnership is implied.
+
 ## 5 Explore optional context carefully
 
 Later research may explore user-authorized contextual or physiological signals to inform an
